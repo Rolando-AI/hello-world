@@ -1,0 +1,7 @@
+
+Este es un mensaje de prueba creado a partir del comando
+vi test.txt
+
+Para manipular, guardar, insertar, se debe consultar un vi command cheat sheet.
+
+Que bien se siente aprender algo nuevo :)
